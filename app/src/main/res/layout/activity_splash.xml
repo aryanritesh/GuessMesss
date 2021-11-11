@@ -9,8 +9,8 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="350"
-        android:layout_height="350"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
         android:layout_marginTop="100dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -20,7 +20,7 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="350"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="80dp"
         android:fontFamily="@font/audiowide"
