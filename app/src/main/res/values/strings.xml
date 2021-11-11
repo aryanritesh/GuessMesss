@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">GuessMess</string>
+    <string name="briefing">Choose the number of digits.
+                            You will have to guess the number in 5 attempts.
+    </string>
 </resources>
