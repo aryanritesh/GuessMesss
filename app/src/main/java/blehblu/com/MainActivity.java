@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
                         intent.putExtra("four",true);
                     }
                     startActivity(intent);
+                    finish();
                 }
             }
         });
